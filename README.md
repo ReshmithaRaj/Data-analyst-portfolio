@@ -31,7 +31,11 @@ Coventry needed to evaluate the effectiveness of its homelessness assessment pro
 
 
 ## Business Impact
-The analysis showed that prioritizing prevention services could reduce overall caseloads and improve outcomes for vulnerable populations across Coventry.  
+The analysis showed that prioritizing prevention services could reduce overall caseloads and improve outcomes for vulnerable populations across Coventry.
+
+### 📸 Dashboard Screenshot
+
+![Homelessness Dashboard](images/homelessness_dashboard.png)
 
 ## Future Work
 - Develop a quarterly monitoring dashboard  
