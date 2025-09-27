@@ -35,7 +35,7 @@ The analysis showed that prioritizing prevention services could reduce overall c
 
 ### 📸 Dashboard Screenshot
 
-![Homelessness Dashboard](images/homelessness_dashboard.png)
+<img width="2279" height="1262" alt="Image" src="https://github.com/user-attachments/assets/af5707be-73f9-44d4-8c25-d5f7a324b731" />
 
 ## Future Work
 - Develop a quarterly monitoring dashboard  
